@@ -1,4 +1,4 @@
-![baner](images/Github-cover.png)
+![baner](images/github_background.jpg)
 
 ### Hi there 👋 🤓
 I'm Andres Rios, Data Lead at Beek.io.
