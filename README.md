@@ -1,16 +1,12 @@
-### Hi there 👋
+![baner](images/Github-cover.png)
 
-<!--
-**ariosramirez/ariosramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 🤓
+I'm Andres Rios, Data Lead at Beek.io.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on content success prediction model🤖, improving data visualization📈 and helping my team to grow🚀.  
+- 🌱 I’m currently learning Django, Go, Business and leader skills.
+- 👯 I’m looking to collaborate on teach Data Science Skills
+- 🤔 I’m looking for help with data science tasks and machine learning development tasks.
+- 💬 Ask me about Python, Machine Learning, medicine algorithm and robotics. 
+- 📫 How to reach me: [my email](mailto:andres.rios.4126@gmail.com) or any social network as @ariosramirez 
+- ⚡ Fun fact: [thinking... 🤔] 
