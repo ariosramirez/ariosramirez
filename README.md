@@ -3,7 +3,7 @@
 
 <!-- Social Media -->
 <a href="https://www.linkedin.com/in/ariosramirez"><img src="https://github.com/ariosramirez/ariosramirez/blob/main/images/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/ariosramirez"><img src="https://github.com/ariosramirez/ariosramirez/blob/main/images/logos/github.png" width="40" /></a>
+<a href="https://github.com/ariosramirez"><img src="https://github.com/ariosramirez/ariosramirez/blob/main/images/logos/github-sign.png" width="40" /></a>
 <a href="mailto:ariosramirez.data@gmail.com"><img src="https://github.com/ariosramirez/ariosramirez/blob/main/images/logos/gmail.png" width="40" /></a>
 <a href="https://twitter.com/ariosramirez"><img src="https://github.com/ariosramirez/ariosramirez/blob/main/images/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/ariosramirez"><img src="https://github.com/ariosramirez/ariosramirez/blob/main/images/logos/instagram.png" width="40" /></a>
