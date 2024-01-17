@@ -14,7 +14,7 @@
 <!-- Who I am -->
 ### Hi there 🤓 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Andres Rios, Data Lead at Beek.io.
+I'm Andres Rios, Data Scientist at Beek.io.
 
 - 🔭 I’m currently working on recomendation model🤖, create a DW using Bigquery and Airflow 🪶 and helping my team to grow🚀.  
 - 🌱 I’m currently learning Data Enginering skills, Go, Business and leader skills.
