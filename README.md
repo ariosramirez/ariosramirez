@@ -37,7 +37,7 @@ I'm looking for assistance with challenging data science and machine learning de
 Python programming, Machine Learning methodologies, medical algorithms, Startups and robotics applications.
 
 ## 📫 Reach Me
-Feel free to reach out via [email](mailto:ariosramirez.data@gmail.com) or connect on social media [@ariosramirez](https://www.x.com/ariosramirez).
+Feel free to reach out via [email](mailto:ariosramirez.data@gmail.com) or connect on social media [@ariosramirez](https://www.x.com/ariosramirez) .
 
 ---
 
