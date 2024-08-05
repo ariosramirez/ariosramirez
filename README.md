@@ -15,7 +15,7 @@
 
 # Hi there, I'm Andres Rios! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Data Scientist at Beek.io passionate about leveraging data to drive impactful insights and innovations.
+I'm passionate about leveraging data to drive impactful insights and innovations.
 
 ## 🔧 Current Projects
 - **Building a Robust Recommendation Model**: Enhancing user experience through personalized content suggestions.
