@@ -49,7 +49,7 @@ With a lifelong commitment to learning and a passion for creating value through 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 [![Ariosramirez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariosramirez&count_private=true&theme=dark)](https://github.com/ariosramirez)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariosramirez&count_private=true&theme=dark&exclude_repo=Meetup-pyspark-Optimus,Calidad_Educativa_Argentina,ciencia_datos_acamica_cordoba,Hotel-booking-demand-challenge,ProyectoCoder)](https://github.com/ariosramirez?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariosramirez&count_private=true&theme=dark&exclude_repo=Meetup-pyspark-Optimus,Calidad_Educativa_Argentina,ciencia_datos_acamica_cordoba,Hotel-booking-demand-challenge,ProyectoCoder,latam-challenge,time-series,recom-beek-flask)](https://github.com/ariosramirez?tab=repositories)
 
 ![Andres's Github Profile Views](https://komarev.com/ghpvc/?username=ariosramirez&color=blueviolet)  
 <a href="https://github.com/jstrieb/github-stats">
