@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-I'm Andres Rios, a Data Lead with over 6 years of experience building and leading high-performing data teams from scratch[cite: 3]. I drive innovation across diverse industries like fintech, content, tech, and beverage distribution by developing predictive models, scalable data solutions, and actionable insights[cite: 2]. My focus is on aligning data initiatives with strategic goals to deliver measurable business impact, such as significantly reducing ETL processing times [cite: 3, 8] and operational costs[cite: 9]. Passionate about leveraging data, ML, and robust engineering practices (Airflow, dbt, BigQuery, MLflow [cite: 6, 8, 18, 20, 22]) to solve complex challenges.
+I'm Andres Rios, a Data Lead with over 6 years of experience building and leading high-performing data teams from scratch. I drive innovation across diverse industries like fintech, content, tech, and beverage distribution by developing predictive models, scalable data solutions, and actionable insights. My focus is on aligning data initiatives with strategic goals to deliver measurable business impact, such as significantly reducing ETL processing times and operational costs. Passionate about leveraging data, ML, and robust engineering practices (Airflow, dbt, BigQuery, MLflow) to solve complex challenges.
 
 ## 🔧 Current Focus
-* **Building Robust Recommendation Models:** Enhancing user experience with personalized content[cite: 10].
-* **Developing Impactful ML Projects:** Delivering measurable value and actionable insights[cite: 6].
-* **Scalable Data Warehouses:** Designing and implementing solutions using BigQuery, dbt, and Airflow[cite: 8].
+* **Building Robust Recommendation Models:** Enhancing user experience with personalized content.
+* **Developing Impactful ML Projects:** Delivering measurable value and actionable insights.
+* **Scalable Data Warehouses:** Designing and implementing solutions using BigQuery, dbt, and Airflow.
 * **Team Empowerment:** Mentoring and fostering professional growth.
 
 ## 🌱 Currently Learning
@@ -38,8 +38,8 @@ I'm enthusiastic about collaborating on impactful Open Source projects or tackli
 I'm always looking for fresh perspectives and assistance with complex data science and machine learning development tasks.
 
 ## 💬 Ask Me About
-* Python Programming [cite: 23]
-* Machine Learning Methodologies [cite: 17]
+* Python Programming
+* Machine Learning Methodologies
 * Medical Algorithms
 * Startups & Entrepreneurship
 * Robotics Applications
