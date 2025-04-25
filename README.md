@@ -13,36 +13,44 @@
 
 <!-- Who I am -->
 
+---
+
 # Hi there, I'm Andres Rios! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm passionate about leveraging data to drive impactful insights and innovations.
+## 🚀 About Me
 
-## 🔧 Current Projects
-- **Building a Robust Recommendation Model**: Enhancing user experience through personalized content suggestions.
-- **Developing Machine Learning Projects**: Driving measurable value and actionable insights with impactful ML solutions.
-- **Designing and Implementing Scalable Data Warehouses**: Utilizing BigQuery, dbt, and Airflow for efficient data processing.
-- **Mentoring and Empowering Team Members**: Fostering professional growth and development.
+I'm Andres Rios, a Data Lead with over 6 years of experience building and leading high-performing data teams from scratch[cite: 3]. I drive innovation across diverse industries like fintech, content, tech, and beverage distribution by developing predictive models, scalable data solutions, and actionable insights[cite: 2]. My focus is on aligning data initiatives with strategic goals to deliver measurable business impact, such as significantly reducing ETL processing times [cite: 3, 8] and operational costs[cite: 9]. Passionate about leveraging data, ML, and robust engineering practices (Airflow, dbt, BigQuery, MLflow [cite: 6, 8, 18, 20, 22]) to solve complex challenges.
+
+## 🔧 Current Focus
+* **Building Robust Recommendation Models:** Enhancing user experience with personalized content[cite: 10].
+* **Developing Impactful ML Projects:** Delivering measurable value and actionable insights[cite: 6].
+* **Scalable Data Warehouses:** Designing and implementing solutions using BigQuery, dbt, and Airflow[cite: 8].
+* **Team Empowerment:** Mentoring and fostering professional growth.
 
 ## 🌱 Currently Learning
-- **Exploring Product Growth Concepts**: Enhancing the impact and outcomes of team initiatives.
-- **Developing Business Acumen and Leadership Skills**: Driving strategic initiatives and effective decision-making.
+* **Product Growth Concepts:** Improving the impact and outcomes of team initiatives.
+* **Business Acumen & Leadership:** Driving strategic initiatives and effective decision-making.
 
-## 🤝 Open to Collaboration
-I'm enthusiastic about collaborating on impactful Open Source projects. Let's connect and create together!
+## 🤝 Let's Collaborate!
+I'm enthusiastic about collaborating on impactful Open Source projects or tackling challenging data science/ML problems. Let's connect and create together!
 
-## 🤔 Seeking Help With
-I'm looking for assistance with challenging data science and machine learning development tasks. Any insights or collaborations are welcome!
+## 🤔 Seeking Insights On
+I'm always looking for fresh perspectives and assistance with complex data science and machine learning development tasks.
 
 ## 💬 Ask Me About
-Python programming, Machine Learning methodologies, medical algorithms, Startups and robotics applications.
+* Python Programming [cite: 23]
+* Machine Learning Methodologies [cite: 17]
+* Medical Algorithms
+* Startups & Entrepreneurship
+* Robotics Applications
 
-## 📫 Reach Me
-Feel free to reach out via [email](mailto:ariosramirez.data@gmail.com) or connect on social media [@ariosramirez](https://www.x.com/ariosramirez) .
+## 📫 Get In Touch
+* **Email:** [ariosramirez.data@gmail.com](mailto:ariosramirez.data@gmail.com)
+* **X/Twitter:** [@ariosramirez](https://www.x.com/ariosramirez)
+* **LinkedIn:** [linkedin.com/in/ariosramirez](https://linkedin.com/in/ariosramirez)
+* **GitHub:** [github.com/ariosramirez](https://github.com/ariosramirez)
 
-## 🚀 About Me
-As a Senior Data Scientist at Beek.io, I leverage the power of data to develop innovative hearing aid solutions for Spanish speakers. I manage end-to-end data projects, overseeing everything from planning and execution to analysis and optimization. By collaborating closely with cross-functional teams and stakeholders, I ensure we deliver impactful results that drive data-driven decision-making across the organization. Our team utilizes tools like MetaBase and Apache Airflow to design and manage comprehensive data warehouses, ETL pipelines, and analytics platforms.
-
-With a lifelong commitment to learning and a passion for creating value through data, I possess a robust foundation in data engineering and analytics. I have successfully implemented machine learning models using Python and other advanced tools. In addition to my technical expertise, I am dedicated to knowledge sharing and education, empowering aspiring data scientists at Coderhouse with the skills and capabilities of Python. My academic journey at UNC, combined with extensive hands-on experience, solidifies my expertise in data science and machine learning, propelling progress within the tech community.
+---
 
 ---
 
